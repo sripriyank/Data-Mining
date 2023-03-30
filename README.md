@@ -93,7 +93,7 @@ Support Vector Mechanism: Support vector machines (SVMs) are a well-researched c
  
 ## Comparing Models
 
-<img src="https://github.com/sripriyank/Data-Mining/blob/main/Comparing_Models_Result_Table.png" alt="Comparing Models Result Table" width="50%" height="50%"> 
+<img src="https://github.com/sripriyank/Data-Mining/blob/main/Comparing_Models_Result_Table.jpg" alt="Comparing Models Result Table" width="50%" height="50%"> 
 
 ## Conclusion
 
