@@ -109,7 +109,10 @@ This is because of the correlation between the Venue and the Toss, few venues ha
 •	It helps Team Management to give rest to key players when playing against weak team.
 
 
-## Way Forward: With the help of the above analysis, we can predict the winner of any game or any tournament between any number of teams with high efficiency.
+## Way Forward: 
+
+With the help of the above analysis, we can predict the winner of any game or any tournament between any number of teams with high efficiency.
+
 
 
 
