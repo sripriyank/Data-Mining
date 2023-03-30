@@ -75,7 +75,7 @@ Support Vector Mechanism: Support vector machines (SVMs) are a well-researched c
 
 <img src="https://github.com/sripriyank/Data-Mining/blob/main/Two-Class Support_Vector_Machine.png" alt="Two Class Support Vector Machine" width="50%" height="50%">
 <img src="https://github.com/sripriyank/Data-Mining/blob/main/Two-Class Support_Vector_Machine1.png" alt="Two Class Support Vector Machine1" width="50%" height="50%">
-<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two-Class Support_Vector_Machine3.png" alt="Two Class Support Vector Machine3" width="90%" height="80%">
+<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two-Class Support_Vector_Machine3.png" alt="Two Class Support Vector Machine3" width="50%" height="50%">
 
 #### Predictive Model with Factors affecting Team’s Performance.
  
