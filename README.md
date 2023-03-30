@@ -108,6 +108,7 @@ This is because of the correlation between the Venue and the Toss, few venues ha
 •	This analysis helps the team management to plot things against a particular player or a particular player by knowing their strengths and weaknesses.
 •	It helps Team Management to give rest to key players when playing against weak team.
 
+
 ## Way Forward: With the help of the above analysis, we can predict the winner of any game or any tournament between any number of teams with high efficiency.
 
 
