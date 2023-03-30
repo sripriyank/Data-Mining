@@ -19,7 +19,6 @@ The technology-centric Sports Consultant use their skill to study the players of
 The data set for this classification problem comes from the Matches sample data set collection on Kaggle. 
 A general idea of the data can be gained by looking at the columns and their unique values.
 •	Id: Unique UID for each of the IPL of all Seasons.
-
 •	Season: The Edition of IPL in which the match happened.
 •	City: City where the match happened.
 •	Date: Date on which match happened.
@@ -94,7 +93,7 @@ Support Vector Mechanism: Support vector machines (SVMs) are a well-researched c
  
 ## Comparing Models
 
-<img src="https://github.com/sripriyank/Data-Mining/blob/main/Comparing_Models_Result_Table.png" alt="Comparing Models Result Table.png" width="50%" height="50%"> 
+<img src="https://github.com/sripriyank/Data-Mining/blob/main/Comparing_Models_Result_Table.png" alt="Comparing Models Result Table" width="50%" height="50%"> 
 
 ## Conclusion
 
