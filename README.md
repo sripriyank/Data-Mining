@@ -49,7 +49,7 @@ Various measures are used to evaluate the performance of the chosen models:
 
 ##                                                          Predictive Model
 
-<img src="https://github.com/sripriyank/Data-Mining/blob/main/Pridictive_Model_in_Azure" alt="Pridictive Model in Azure" width="90%" height="80%">
+<img src="https://github.com/sripriyank/Data-Mining/blob/main/Pridictive_Model_in_Azure.png" alt="Pridictive Model in Azure" width="90%" height="80%">
  
 In the beginning we tested out models and measured their performance by several metrics. The models used include: Here, we did split of 70% to train the model and rest 30% to test.
 Two-Class Decision Forest: Two-Class Decision Forest module to create a machine learning model based on the random decision forests algorithm. Decision forests are fast, supervised ensemble models. This module can be used to predict a target that has two values.
@@ -60,40 +60,40 @@ Support Vector Mechanism: Support vector machines (SVMs) are a well-researched c
 
 #### 1.	Two-Class Decision Forest:
 
-<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two_Class_Decision_Forest" alt="Two Class Decision Forest" width="50%" height="50%">
-<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two_Class_Decision_Forest1" alt="Two Class Decision Forest1" width="50%" height="50%">
-<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two_Class_Decision_Forest3" alt="Two Class Decision Forest3" width="50%" height="50%">
+<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two_Class_Decision_Forest.png" alt="Two Class Decision Forest" width="50%" height="50%">
+<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two_Class_Decision_Forest1.png" alt="Two Class Decision Forest1" width="50%" height="50%">
+<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two_Class_Decision_Forest3.png" alt="Two Class Decision Forest3" width="50%" height="50%">
 
 #### 2.	Two-Class Neural Network:
 
-<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two_Class_Neural_Network" alt="Two Class Neural Network" width="50%" height="50%">
-<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two_Class_Neural_Network2" alt="Two Class Neural Network2" width="50%" height="50%">
-<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two_Class_Neural_Network3" alt="Two Class Neural Network3" width="80%" height="80%">
+<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two_Class_Neural_Network.png" alt="Two Class Neural Network" width="50%" height="50%">
+<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two_Class_Neural_Network2.png" alt="Two Class Neural Network2" width="50%" height="50%">
+<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two_Class_Neural_Network3.png" alt="Two Class Neural Network3" width="80%" height="80%">
    
  
 #### 3.	Two-Class Support Vector Machine:
 
-<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two-Class Support_Vector_Machine" alt="Two Class Support Vector Machine" width="50%" height="50%">
-<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two-Class Support_Vector_Machine1" alt="Two Class Support Vector Machine1" width="50%" height="50%">
-<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two-Class Support_Vector_Machine3" alt="Two Class Support Vector Machine3" width="90%" height="80%">
+<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two-Class Support_Vector_Machine.png" alt="Two Class Support Vector Machine" width="50%" height="50%">
+<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two-Class Support_Vector_Machine1.png" alt="Two Class Support Vector Machine1" width="50%" height="50%">
+<img src="https://github.com/sripriyank/Data-Mining/blob/main/Two-Class Support_Vector_Machine3.png" alt="Two Class Support Vector Machine3" width="90%" height="80%">
 
 #### Predictive Model with Factors affecting Team’s Performance.
  
- <img src="https://github.com/sripriyank/Data-Mining/blob/main/Predictive Model with Factors affecting Team’s Performance" alt="Predictive Model with Factors affecting Team’s Performance" width="90%" height="80%">
+ <img src="https://github.com/sripriyank/Data-Mining/blob/main/Predictive Model with Factors affecting Team’s Performance.png" alt="Predictive Model with Factors affecting Team’s Performance" width="90%" height="80%">
  
 #### Comparison of Model with all independent variables and the model with no Details regarding Venue.
 
-<img src="https://github.com/sripriyank/Data-Mining/blob/main/Comparison of Model with all independent variables and the model with no Details regarding Venue" alt="Comparison of Model with all independent variables and the model with no Details regarding Venue" width="50%" height="50%">
-<img src="https://github.com/sripriyank/Data-Mining/blob/main/Comparison of Model with all independent variables and the model with no Details regarding Venue1" alt="Comparison of Model with all independent variables and the model with no Details regarding Venue1" width="50%" height="50%">   
+<img src="https://github.com/sripriyank/Data-Mining/blob/main/Comparison of Model with all independent variables and the model with no Details regarding Venue.png" alt="Comparison of Model with all independent variables and the model with no Details regarding Venue" width="50%" height="50%">
+<img src="https://github.com/sripriyank/Data-Mining/blob/main/Comparison of Model with all independent variables and the model with no Details regarding Venue1.png" alt="Comparison of Model with all independent variables and the model with no Details regarding Venue1" width="50%" height="50%">   
 
 #### Comparison of Model with all independent variables and the model with no Details regarding Toss.
 
-<img src="https://github.com/sripriyank/Data-Mining/blob/main/Comparison of Model with all independent variables and the model with no Details regarding Toss" alt="Comparison of Model with all independent variables and the model with no Details regarding Toss" width="50%" height="50%">  
-<img src="https://github.com/sripriyank/Data-Mining/blob/main/Comparison of Model with all independent variables and the model with no Details regarding Toss1" alt="Comparison of Model with all independent variables and the model with no Details regarding Toss1" width="50%" height="50%">  
+<img src="https://github.com/sripriyank/Data-Mining/blob/main/Comparison of Model with all independent variables and the model with no Details regarding Toss.png" alt="Comparison of Model with all independent variables and the model with no Details regarding Toss" width="50%" height="50%">  
+<img src="https://github.com/sripriyank/Data-Mining/blob/main/Comparison of Model with all independent variables and the model with no Details regarding Toss1.png" alt="Comparison of Model with all independent variables and the model with no Details regarding Toss1" width="50%" height="50%">  
  
 ## Comparing Models
 
-<img src="https://github.com/sripriyank/Data-Mining/blob/main/Comparing_Models_Result_Table" alt="Comparing Models Result Table" width="50%" height="50%"> 
+<img src="https://github.com/sripriyank/Data-Mining/blob/main/Comparing_Models_Result_Table.png" alt="Comparing Models Result Table" width="50%" height="50%"> 
 
 ## Conclusion
 
