@@ -34,3 +34,18 @@ A general idea of the data can be gained by looking at the columns and their uni
 •	Venue: Stadium where the match happened.
 •	Umpire1, Umpire2, Umpire3: The representatives who manages the flow of the Match.
 
+
+
+
+# Metrics for Model Evaluation
+Various measures are used to evaluate the performance of the chosen models: 
+• Feature weights: Indicates the model's key features for generating predictions. 
+• Confusion matrix: Displays a grid of true and false predictions versus actual values. 
+• Accuracy score: Indicates the model's overall accuracy for both the training and test sets. 
+• ROC Curve: Shows a model's diagnostic ability by combining true positives rate (TPR) and false positive rate (FPR) for various class prediction thresholds (For example, churn thresholds of 10%, 50%, or 90% result in a prediction of churn) 
+• AUC (for ROC): Indicates the model's overall separability between classes associated with the ROC curve. 
+• Precision-Recall-Curve: Compares the false positive rate (FPR) and false negative rate (FNR) for different thresholds of class predictions to demonstrate diagnostic competence. It's good for data sets with a lot of class imbalances (negative values overrepresented), because it concentrates on accuracy and recall, which aren't affected by the quantity of genuine negatives, hence it eliminates the problem.
+ • F1 Score: Calculates the harmonic mean of precision and recall and so assesses the trade-off between the two. 
+• AUC (for PRC): Indicates the model's overall separability between classes as measured by the Precision-Recall curve.
+
+
