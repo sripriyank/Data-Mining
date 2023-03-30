@@ -19,6 +19,7 @@ The technology-centric Sports Consultant use their skill to study the players of
 The data set for this classification problem comes from the Matches sample data set collection on Kaggle. 
 A general idea of the data can be gained by looking at the columns and their unique values.
 •	Id: Unique UID for each of the IPL of all Seasons.
+
 •	Season: The Edition of IPL in which the match happened.
 •	City: City where the match happened.
 •	Date: Date on which match happened.
