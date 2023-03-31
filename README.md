@@ -18,6 +18,7 @@ The technology-centric Sports Consultant use their skill to study the players of
 ## Data Description
 The data set for this classification problem comes from the Matches sample data set collection on Kaggle. 
 A general idea of the data can be gained by looking at the columns and their unique values.
+<br>
 •	Id: Unique UID for each of the IPL of all Seasons.
 <br>
 •	Season: The Edition of IPL in which the match happened.
@@ -52,14 +53,22 @@ A general idea of the data can be gained by looking at the columns and their uni
 
 ## Metrics for Model Evaluation
 Various measures are used to evaluate the performance of the chosen models: 
-• Feature weights: Indicates the model's key features for generating predictions. 
+• Feature weights: Indicates the model's key features for generating predictions.
+<br>
 • Confusion matrix: Displays a grid of true and false predictions versus actual values. 
+<br>
 • Accuracy score: Indicates the model's overall accuracy for both the training and test sets. 
+<br>
 • ROC Curve: Shows a model's diagnostic ability by combining true positives rate (TPR) and false positive rate (FPR) for various class prediction thresholds (For example, churn thresholds of 10%, 50%, or 90% result in a prediction of churn) 
+<br>
 • AUC (for ROC): Indicates the model's overall separability between classes associated with the ROC curve. 
+<br>
 • Precision-Recall-Curve: Compares the false positive rate (FPR) and false negative rate (FNR) for different thresholds of class predictions to demonstrate diagnostic competence. It's good for data sets with a lot of class imbalances (negative values overrepresented), because it concentrates on accuracy and recall, which aren't affected by the quantity of genuine negatives, hence it eliminates the problem.
+<br>
  • F1 Score: Calculates the harmonic mean of precision and recall and so assesses the trade-off between the two. 
+ <br>
 • AUC (for PRC): Indicates the model's overall separability between classes as measured by the Precision-Recall curve.
+<br>
 
 ##                                                          Predictive Model
 
@@ -117,10 +126,15 @@ This is because of the correlation between the Venue and the Toss, few venues ha
 ## Recommendations
 
 •	Franchise can optimize the team and bid in auction based on the player’s previous performance and recent form for winning the present season of IPL.
+<br>
 •	Franchise can estimate the price range of a particular player based on the analysis.
+<br>
 •	Stats of the venues and pitch condition can help the teams to decide on how to start the game (whether to bat first or field first after winning the toss).
+<br>
 •	This analysis helps the team management to plot things against a particular player or a particular player by knowing their strengths and weaknesses.
+<br>
 •	It helps Team Management to give rest to key players when playing against weak team.
+<br>
 
 
 ## Way Forward: 
