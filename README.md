@@ -19,19 +19,33 @@ The technology-centric Sports Consultant use their skill to study the players of
 The data set for this classification problem comes from the Matches sample data set collection on Kaggle. 
 A general idea of the data can be gained by looking at the columns and their unique values.
 •	Id: Unique UID for each of the IPL of all Seasons.
+<br>
 •	Season: The Edition of IPL in which the match happened.
+<br>
 •	City: City where the match happened.
+<br>
 •	Date: Date on which match happened.
+<br>
 •	Team1, Team2: Teams which participated in the Match. 
+<br>
 •	Toss Winner: Team who won the Toss of the Match.
+<br>
 •	Toss Decision: Team who won the toss have the benefit of selecting batting/bowling first of their choice.
+<br>
 •	Result: Whether the Match ended normally, or it is a Tie (Which results in Super over).
+<br>
 •	DL Applied: Method which is used to calculate the winner if the match stops (Mostly because of rain).
+<br>
 •	Winner: Winner of the Match (Our Target Variable).
+<br>
 •	Win by Runs: If the winner bats first, the team will win by Runs.
+<br>
 •	Win by Wickets: if the winner bats second, the team will win by Wickets.
+<br>
 •	Player of the Match: Award given to the best performer of the Match.
+<br>
 •	Venue: Stadium where the match happened.
+<br>
 •	Umpire1, Umpire2, Umpire3: The representatives who manages the flow of the Match.
 
 <img src="https://github.com/sripriyank/Data-Mining/blob/main/Table_Data_Description.png" alt="Table Data Description" width="90%" height="80%">
