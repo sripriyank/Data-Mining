@@ -1,7 +1,7 @@
 # IPL Winner Prediction
 
 ## Introduction
-Introduction
+
 The Indian Premier League (IPL) is a professional men's Twenty20 cricket league, contested by ten teams based out of ten Indian cities. The league was founded by the Board of Control for Cricket in India (BCCI) in 2007. It is usually held between March and May of every year.
 Cricket is a sport that captivates audiences and fans around the world. It is played on the international stage and is a global phenomenon. Different formats of the game are in existence today and the most fast paced and most watched format is the T20 format. 3-hour games with 40 overs per game makes it exhilarating to play and watch. After the international schedule concludes, domestic competitions take place and that is what gave birth to one of the most expensive and most watched leagues in the world, the Indian Premier League (IPL) in the year 2008.
 The 2022 Indian Premier League (IPL) is set to generate I₹1,000 crore (US$131,363,200) in sponsorship revenue, Board of Control for Cricket in India (BCCI) secretary Jah Shah has confirmed.
